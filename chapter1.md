@@ -40,3 +40,24 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Exercise
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 86ec2c4253
+xp: 50
+```
+
+What is my name?
+
+`@hint`
+Starts with L
+
+`@possible_answers`
+Lucy, [Lauren], Lisa, Laverne
+
+`@feedback`
+hi
